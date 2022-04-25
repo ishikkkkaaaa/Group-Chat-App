@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588145874939",
+    "firebase_url": "https://groupchatapp-cd5ae.firebaseio.com",
+    "project_id": "groupchatapp-cd5ae",
+    "storage_bucket": "groupchatapp-cd5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588145874939:android:ab56cbd52a9514c8d5dd5e",
+        "android_client_info": {
+          "package_name": "com.example.group_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588145874939-jmohaavr0nkm93f0s1bhs82b0pcddnqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5bjTNymizO7Ya9GblkyeTuScRrvcCQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588145874939-jmohaavr0nkm93f0s1bhs82b0pcddnqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
